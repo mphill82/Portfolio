@@ -10,4 +10,13 @@ The purpose of this project is to determine new retail that should open in the C
 <img src="/images/cluster_plot.png?raw=true"> 
 
 ---
+###[ Predicting Titanic Passenger Survival](https://github.com/mphill82/Titanic-Kaggle)
+
+This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works. The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+
+For a better view of the jupyter notebook visit 
+[NBViewer.] (https://nbviewer.jupyter.org/github/mphill82/Titanic-Kaggle/blob/9887ccf972061d765f7d1b12ab805b5bd81a904c/predicting-titanic-passenger-survival.ipynb)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg" alt="Titanic" width=30%> 
+
 
