@@ -6,7 +6,7 @@ The purpose of this project is to determine new retail that should open in the C
 <br><br>
 For a better view of the jupyter notebook visit 
 [NBViewer](https://nbviewer.jupyter.org/github/mphill82/Retail_Inference_Capstone/blob/8b065d53de52195103b25927ec2ba1c2a5cb30b4/Retail_Inference_notebook.ipynb)
-<br><br>
+<br>
 <img src="images/cluster_plot.png?raw=True" width=80%/> 
 
 ---
