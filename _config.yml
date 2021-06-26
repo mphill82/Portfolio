@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Mitchell Phillips # your name (or website title) here
+logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Academic mathematician pivoting to a career in data science. Strong problem solver, 
+  in-depth studies in the fields of graph theory and linear algebra, excellent communication skills, 
+  3+ years experience teaching college mathematics. Looking to use my combination of analytic and 
+  communication skills as a data scientist.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/phillipsmj2/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
