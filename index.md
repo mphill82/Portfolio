@@ -1,7 +1,7 @@
 ## Data Science Portfolio
 
 ---
-[### Determining Retail Categories to Open in the Church Hill Neighborhood of Richmond, VA](https://github.com/mphill82/Retail_Inference_Capstone)
+### [Determining Retail Categories to Open in the Church Hill Neighborhood of Richmond, VA](https://github.com/mphill82/Retail_Inference_Capstone)
 <br>
 The purpose of this project is to determine new retail that should open in the Church Hill neighborhood of Richmond, VA.  I use geocoding, the Foursquare API, feature creation, PCA dimensionality reduction, and K-Means clustering.
 
