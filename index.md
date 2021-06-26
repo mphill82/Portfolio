@@ -18,7 +18,7 @@ This is the legendary Titanic ML competition – the best, first challenge for y
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg?raw=true" alt="Titanic"> 
 <br><br>
 *For a better view of the jupyter notebook visit*
-[NBViewer] (https://nbviewer.jupyter.org/github/mphill82/Titanic-Kaggle/blob/9887ccf972061d765f7d1b12ab805b5bd81a904c/predicting-titanic-passenger-survival.ipynb)
+[NBViewer](https://nbviewer.jupyter.org/github/mphill82/Titanic-Kaggle/blob/9887ccf972061d765f7d1b12ab805b5bd81a904c/predicting-titanic-passenger-survival.ipynb)
 
 
 
