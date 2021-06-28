@@ -1,13 +1,15 @@
-## Data Science Portfolio
+# Data Science Portfolio
 
 ---
-### [Determining Retail Categories to Open in the Church Hill Neighborhood of Richmond, VA](https://github.com/mphill82/Retail_Inference_Capstone)
-The purpose of this project is to determine new retail that should open in the Church Hill neighborhood of Richmond, VA.  I use geocoding, the Foursquare API, feature creation, PCA dimensionality reduction, and K-Means clustering.
+### [Neighborhood Retail Growth with Clustering](https://github.com/mphill82/Retail_Inference_Capstone)
+**Description:** The purpose of this project is to determine new retail that should open in the Church Hill neighborhood of Richmond, VA. I cluster the neighborhoods of Richmond and other nearby cities by the categories of their retail offerings. Then I deduce the retail categories missing from Church Hill but found in high frequency within its cluster. These retail categories would likely do well in Church Hill because they've done well in similar neighborhoods.
+<br><br>
+**Concepts Demonstrated:** geocoding, the Foursquare API, feature extraction, PCA dimensionality reduction, and K-Means clustering.
 <br><br>
 <img src="images/cluster_plot.png?raw=true" width="70%">
 <br><br>
 *For a better view of the jupyter notebook visit* 
-[NBViewer](https://nbviewer.jupyter.org/github/mphill82/Retail_Inference_Capstone/blob/8b065d53de52195103b25927ec2ba1c2a5cb30b4/Retail_Inference_notebook.ipynb)
+[NBViewer.](https://nbviewer.jupyter.org/github/mphill82/Retail_Inference_Capstone/blob/8b065d53de52195103b25927ec2ba1c2a5cb30b4/Retail_Inference_notebook.ipynb)
  
 
 ---
@@ -18,7 +20,7 @@ This is the legendary Titanic ML competition – the best, first challenge for y
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg?raw=true" alt="Titanic" width="70%"> 
 <br><br>
 *For a better view of the jupyter notebook visit*
-[NBViewer](https://nbviewer.jupyter.org/github/mphill82/Titanic-Kaggle/blob/9887ccf972061d765f7d1b12ab805b5bd81a904c/predicting-titanic-passenger-survival.ipynb)
+[NBViewer.](https://nbviewer.jupyter.org/github/mphill82/Titanic-Kaggle/blob/9887ccf972061d765f7d1b12ab805b5bd81a904c/predicting-titanic-passenger-survival.ipynb)
 
 
 
