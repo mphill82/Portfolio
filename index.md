@@ -6,7 +6,7 @@
 <br><br>
 **Concepts Demonstrated:** data visualization, geocoding, the Foursquare API, feature extraction, PCA dimensionality reduction, and k-means clustering.
 <br><br>
-<img src="images/cluster_plot.png?raw=true" width="40%">
+<img src="images/cluster_plot.png?raw=true" width="60%">
 <br><br>
 [Github Repository](https://github.com/mphill82/Retail_Inference_Capstone)
 &nbsp;&nbsp;&nbsp;
