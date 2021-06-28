@@ -4,7 +4,7 @@
 ### [Neighborhood Retail Growth with Clustering](https://github.com/mphill82/Retail_Inference_Capstone)
 **Description:** The purpose of this project is to determine new retail that should open in the Church Hill neighborhood of Richmond, VA. I cluster the neighborhoods of Richmond and other nearby cities by the categories of their retail offerings. Then I deduce the retail categories missing from Church Hill but found in high frequency within its cluster. These retail categories would likely do well in Church Hill because they've done well in similar neighborhoods.
 <br><br>
-**Concepts Demonstrated:** geocoding, the Foursquare API, feature extraction, PCA dimensionality reduction, and K-Means clustering.
+**Concepts Demonstrated:** data visualization, geocoding, the Foursquare API, feature extraction, PCA dimensionality reduction, and k-means clustering.
 <br><br>
 <img src="images/cluster_plot.png?raw=true" width="70%">
 <br><br>
@@ -15,7 +15,9 @@
 ---
 ### [ Predicting Titanic Passenger Survival](https://github.com/mphill82/Titanic-Kaggle)
 
-This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works. The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+**Description:** Here I use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.  I train a logistic regression model on the passengers’ class, sex, age, and whether they are a child.  Feature extraction was required to find many missing ages based on the title in their names.  My model scored a .77751 on Kaggle.
+<br><br>
+**Concepts Demonstrated:** data visualization, feature extraction with regular expressions, cross validation, as well as k-nearest neighbors, logistic regression, decision tree, and random forest classifiers.
 <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg?raw=true" alt="Titanic" width="70%"> 
 <br><br>
